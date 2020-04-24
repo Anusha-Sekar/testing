@@ -1,3 +1,5 @@
 this is the first line of sample file in demo repo
 
 new branch content
+
+master branch content
